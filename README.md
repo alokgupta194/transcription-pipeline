@@ -60,7 +60,7 @@ ffmpeg -version
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/transcription-pipeline.git
+git clone https://github.com/alokgupta194/transcription-pipeline.git
 cd transcription-pipeline
 ```
 
